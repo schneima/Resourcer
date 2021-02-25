@@ -1,0 +1,7 @@
+*.suo
+*.cache
+Source/obj/Debug/Resourcer.csproj.FileListAbsolute.txt
+*.exe
+Source/obj/Debug/Resourcer.pdb
+Source/Resourcer.sln
+*.pdb

@@ -93,6 +93,7 @@
     <Compile Include="Dialog.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="InputPromptDialog.cs" />
     <Compile Include="LinkLabel.cs">
       <SubType>Component</SubType>
     </Compile>
